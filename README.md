@@ -32,6 +32,6 @@ The MNIST dataset is widely used for:
 
 📉 Model evaluation (accuracy, confusion matrix, precision-recall)
 
-🔍 Dimensionality reduction techniques like PCA and t-SNE
+🔍 Dimensionality reduction techniques like PCA 
 
 ✅ I have personally used this dataset to implement and analyze Principal Component Analysis (PCA) for visualizing and reducing high-dimensional image data.
