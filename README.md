@@ -30,7 +30,7 @@ The MNIST dataset is widely used for:
 
 🧠 Convolutional Neural Networks (CNNs)
 
-📉 Model evaluation (accuracy, confusion matrix, precision-recall)
+📉 Model evaluation (accuracy)
 
 🔍 Dimensionality reduction techniques like PCA 
 
